@@ -18,7 +18,7 @@ The objective was to track a fictional Person of Interest (POI) using only publi
 Used Google dork:
 inurl:@sp1ritfyre site:twitter.com
 
-![Twitter](images/1-twitter.png)
+![Twitter](twitter)
 
 ---
 
@@ -27,7 +27,7 @@ Found encoded link and decoded it.
 
 Result → redhunt.net
 
-![Base64](images/2-base64.png)
+![Base64](base64)
 
 ---
 
@@ -40,7 +40,7 @@ Findings:
 - Hosted on AWS EC2 (UK)
 - No malicious activity
 
-![URL Scan](images/3-urlscan.png)
+![URL Scan](urlscan)
 
 ---
 
@@ -50,28 +50,28 @@ intext:@sp1ritfyre
 
 Found Blogger account.
 
-![Google](images/4-google.png)
+![Google](google)
 
 ---
 
 ### 🔹 Step 5: Blogger Analysis
 Found hidden hex value.
 
-![Blogger](images/5-blogger.png)
+![Blogger](blogger)
 
 ---
 
 ### 🔹 Step 6: Hex Decoding
 Decoded hex → new blog URL
 
-![Hex](images/6-hex.png)
+![Hex](hex)
 
 ---
 
 ### 🔹 Step 7: Final Profiling
 Collected full data from multiple sources.
 
-![Final](images/7-final-profile.png)
+![Final](profile)
 
 ---
 
@@ -91,7 +91,7 @@ Collected full data from multiple sources.
 - Hex Decoder  
 - urlscan.io  
 - VirusTotal  
-
+![Report](report)
 ---
 
 ## ⚠️ Disclaimer
