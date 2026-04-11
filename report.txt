@@ -38,16 +38,15 @@ The hex string was decoded using a hex-to-text tool.
 🔹 Step 7: Final Profiling
 By correlating data from multiple sources, a complete profile was built.
 
-🧾 Final Findings
 Name: Sam Woods
 Age: 23
 Country: United Kingdom
-Email: d1ved33p@gmail.com
-Role: Junior Penetration Tester
-Interests: Security, gaming, malware analysis, photography
-Websites:
-redhunt.net
-sammiewoodsec.blogspot.com
+Email: d1ved33p@gmail.com , abuse@godaddy.com
+Employer: PhilmanSecurityInc
+Position: Junior Penetration Tester
+Personal interests: Security, photography, gaming, malware analysis, camping, and reading
+Owned domain: redhunt.net
+Affiliated websites: sammiewoodsec.blogspot.com , sp1ritfyrehackerstories.blogspot.com
 🛠️ Tools Used
 Google Dorking
 Base64 Decoder
