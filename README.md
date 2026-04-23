@@ -1,4 +1,4 @@
-# 🔍 OSINT Investigation - sp1ritfyre
+# 🔍 OSINT Investigation Blueteam - sp1ritfyre
 
 ## 🧠 Overview
 This project is part of an OSINT capstone challenge from Security Blue Team.
